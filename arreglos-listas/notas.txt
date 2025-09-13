@@ -1,0 +1,40 @@
+La lógica de la aplicación se programa en JavaScript, no en HTMl ni en CSS.
+
+El HTML sirve como intermediario entre el usuario y la aplicación construida en JavaScript.
+
+Un programa se divide en cuatro partes: 
+1- Conexiones y estructura lógica. 
+2- Entrada de datos.
+3- Procesamiento lógico.
+4- Salida de datos o resultados.
+
+JavaScript soporta la programación funcional, la programación modular y la programación orientada a objetos. 
+
+En JavaScript se pueden utilizar funciones nativas y funciones definidas por el o la programadora. 
+
+Una función nativa es aquella que viene integrada con el lenguaje de programación y solo necesita ser invocada más no declarada.
+
+Una función definida por el o la programadora es aquella que si necesita ser declarada, definida y programada para luego ser invocada. 
+
+CRUD:
+"Create" (Crear), "Read" (Leer), "Update" (Actualizar) y "Delete" (Eliminar).
+
+
+HTML 
+!+Tab = Agrega las bases del html que se utilizaran para todos los html.
+link+Tab = Se enlaza con el style.css.
+script:module app.js = Se enlaza con el app.js.
+
+Dentro del body:
+div.conteiner = Se agrega un div con la clase conteiner.
+
+Dentro del div:
+input.entrada#txtentrada placeholder "Escribra una plabra aquí" = Se aqrega la caja donde se escribirá y se buscará.
+input:buton.botones#btnagregar = Se agrega el botón para agregar.
+input:buton.botones#btnborrar = Se agrega el botón para borrar.
+input:buton.botones#btnmostrar = Se agrega el botón para mostrar.
+input:buton.botones#btnmodificar = Se agrega el botón para modificar.
+div.resultado#txtresultado = Se agregan los resultados que apareceran.
+
+
+JavaScript
