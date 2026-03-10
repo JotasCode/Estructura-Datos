@@ -1,2 +1,2 @@
 # Estructura-Datos
-Practicas de estructura de datos. 
+Prácticas y proyectos sobre las bases de las estructuras de datos. 
